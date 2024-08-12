@@ -3,3 +3,6 @@
 
 print("Hello", "World", "Samidha", "Cource", sep="|", end=" ")
 print("python")
+
+print("Good", "Pramod", sep="?", end="_")
+print("Amit")
